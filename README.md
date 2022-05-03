@@ -2,7 +2,7 @@
 
 ## Olá pessoal
 Sou iniciante em programção  | estudo  :Java, JavaScript, HTML, CSS e SQL.
-Minha formação é em tecnologia de  redes estou migrando para desenvolvimento, meu objetivo é ser desenvoldor Full Stack:
+Minha formação é em tecnologia de  redes estou migrando para desenvolvimento, meu objetivo é ser desenvolvedor Full Stack:
 
 :briefcase:  &nbsp; Procurando Trabalho
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
