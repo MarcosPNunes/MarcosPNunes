@@ -1,7 +1,7 @@
 # Marcos Paulo Nunes
 
 ## Olá pessoal
-Sou iniciante em programção  | estudo  : HTML5 - CSS3 - JAVA - Angular.<br>
+Sou iniciante em programação  | estudo  : HTML5 - CSS3 - JAVA - Angular.<br>
 Minha formação é em Tecnologia de Redes de Computadores e sou estudante de MBA em Engenharia de Software<br> 
 Estou em precesso de migração de Carreira para Desenvolvimento, meu objetivo é me capacitar em desenvolvimento Full Stack Web:
 
