@@ -5,7 +5,7 @@ Sou estudante em programação  | estudo  : HTML5 - CSS3 - JAVA - Angular.<br>
 Minha formação é em Tecnologia de Redes de Computadores e sou estudante de MBA em Engenharia de Software<br> 
 Estou em precesso de migração de Carreira para Desenvolvimento, meu objetivo é me capacitar em desenvolvimento Full Stack Web:
 
-:briefcase:  &nbsp; Buscando participação em projetos.
+:briefcase:  &nbsp; Disponivel para projetos.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos na minha Stack
  <br/> :blush: &nbsp; Posso te ajudar:
  <br/> :computer: &nbsp; Minha stack: HTML5 - CSS3 - JAVA - Angular
